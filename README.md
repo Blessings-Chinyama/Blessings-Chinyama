@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Blessings Chinyama
 
-<!--
-**Blessings-Chinyama/Blessings-Chinyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Data Analyst | Actuarial Science Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a Financial Analyst and Microsoft Certified Power BI Data Analyst Associate, passionate about turning complex data into meaningful stories. My projects explore data analysis, Power BI, and business intelligence, with a focus on uncovering trends, communicating insights clearly, and translating data into actionable business perspectives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- 📊 Analyse data
+- 📈 Build interactive dashboards in Power BI (Certified — PL-300)
+- 🧮 Apply actuarial and statistical methods to real world problems
+- 🗃️ Write SQL queries and Python scripts for data analysis and automation
+
+## 🧰 Tools & Tech I Use
+- **Data & Analytics:** Power BI, Excel, SQL, Python
+
+## 📜 Certifications
+- Microsoft Certified: Power BI Data Analyst Associate - Microsoft
+- Excel Skills for Business Specialization - Macquarie University
+- Business Statistics & Analysis Specialization - Rice University
+- Mindware: Critical Thinking for the Information Age - University of Michigan
+- SQL Foundations - Microsoft
+- Claude Certifications - Anthropic Academy
+
+## 🎓 Education
+- Actuarial Science, University of Lusaka — graduated with Distinction, Best Graduating Student (April 2026)
+
+## 📬 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/blessings-c)
+
+Thanks for stopping by!
